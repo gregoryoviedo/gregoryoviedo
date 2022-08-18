@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi welcome to my github and my repositories with different projects 👋 💻🧑‍💻
 
 ### - 🔭 I’m currently working on Reac Js and Node js
 ### - 🌱 I’m currently learning Docker, AWS, CI/CD
