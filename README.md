@@ -8,7 +8,7 @@
 ### - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/gregory-oviedo-7495a0213/
 
 ## About my skills
-### Html <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/html.png" width="16" />                   Css <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/css.png" width="16" />
+### Html <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/html.png" width="16" style="padding-right: 2rem;" />Css <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/css.png" width="16" />
 
 <!--
 **gregoryoviedo/gregoryoviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
