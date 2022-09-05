@@ -8,9 +8,17 @@
 ### - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/gregory-oviedo-7495a0213/
 
 ## About my skills
-### Html <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/html.png" width="16" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Css <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/css.png" width="16" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Javascript <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/javascript.png" width="16" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/react.png" width="16" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Redux <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/redux.png" width="16" />
+### Html <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/html.png" width="16" />
+### Css <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/css.png" width="16" />
+### Javascript <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/javascript.png" width="16" />
+### React <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/react.png" width="16" />
+### Redux <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/redux.png" width="16" />
 
-### Bootstrap <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/bootstrap.png" width="16" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Semantic <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/semantic.png" width="16" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Typescript <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/typescript.png" width="16" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sass <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/sass.png" width="16" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/next.png" width="16" />
+### Bootstrap <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/bootstrap.png" width="16" />
+### Semantic <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/semantic.png" width="16" />
+### Typescript <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/typescript.png" width="16" />
+### Sass <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/sass.png" width="16" />
+### Next <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/next.png" width="16" />
 
 <!--
 **gregoryoviedo/gregoryoviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
