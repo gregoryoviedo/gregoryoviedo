@@ -1,7 +1,7 @@
 # Hi welcome to my github and my repositories with different projects 👋 💻🧑‍💻
 
 ### - 🔭 I’m currently working on Reac Js and Node js
-### - 🌱 I’m currently learning Docker, AWS, CI/CD
+### - 🌱 I’m currently learning AWS
 ### - 👯 I’m looking to collaborate on project as Fiado, TourTrack, Garmo Instruments
 ### - 🤔 I’m looking for help with finding a new job
 ### - 💬 Ask me about React Js or Css
