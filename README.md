@@ -26,7 +26,7 @@
 ### MySql <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/mysql.png" width="16" />
 ### Mongo <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/mongodb.png" width="16" />
 
-### Git <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/git.png" width="16" />
+### Git <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/git-icon.png" width="16" />
 ### Docker <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/docker.png" width="16" />
 ### CI/CD <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/ci-cd.png" width="16" />
 <!--
