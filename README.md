@@ -20,6 +20,15 @@
 ### Sass <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/sass.png" width="16" />
 ### Next <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/next.png" width="16" />
 
+### React Native<img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/react.png" width="16" />
+### Node <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/node.png" width="16" />
+### Express <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/express.png" width="16" />
+### MySql <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/mysql.png" width="16" />
+### Mongo <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/mongodb.png" width="16" />
+
+### Git <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/git.png" width="16" />
+### Docker <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/docker.png" width="16" />
+### CI/CD <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/ci-cd.png" width="16" />
 <!--
 **gregoryoviedo/gregoryoviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
