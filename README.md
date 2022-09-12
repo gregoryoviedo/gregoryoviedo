@@ -9,27 +9,11 @@
 ### - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/gregory-oviedo-7495a0213/
 
 ## About my skills
-### Html <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/html.png" width="16" />
-### Css <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/css.png" width="16" />
-### Javascript <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/javascript.png" width="16" />
-### React <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/react.png" width="16" />
-### Redux <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/redux.png" width="16" />
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Bootstrap <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/bootstrap.png" width="16" />
-### Semantic <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/semantic.png" width="16" />
-### Typescript <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/typescript.png" width="16" />
-### Sass <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/sass.png" width="16" />
-### Next <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/next.png" width="16" />
-
-### React Native<img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/react.png" width="16" />
-### Node <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/node.png" width="16" />
-### Express <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/express.png" width="16" />
-### MySql <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/mysql.png" width="16" />
-### Mongo <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/mongodb.png" width="16" />
-
-### Git <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/git-icon.png" width="16" />
-### Docker <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/docker.png" width="16" />
-### CI/CD <img src="https://github.com/gregoryoviedo/portfolio/blob/main/assets/skills/ci-cd.png" width="16" />
 <!--
 **gregoryoviedo/gregoryoviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
