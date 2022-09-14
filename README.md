@@ -1,12 +1,12 @@
 # Hi welcome to my Github👋 💻🧑‍💻
 ## My repositories with different projects Open Source
 
-### - 🔭 I’m currently working on Reac Js and Node js
-### - 🌱 I’m currently learning AWS
-### - 👯 I’m looking to collaborate on project as Fiado, TourTrack, Garmo Instruments
-### - 🤔 I’m looking for help with finding a new job
-### - 💬 Ask me about React Js or Css
-### - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/gregory-oviedo-7495a0213/
+- 🔭 I’m currently working on Reac Js and Node js
+- 🌱 I’m currently learning AWS
+- 👯 I’m looking to collaborate on project as Fiado, TourTrack, Garmo Instruments
+- 🤔 I’m looking for help with finding a new job
+- 💬 Ask me about React Js or Css
+- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/gregory-oviedo-7495a0213/
 
 ## About my skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
