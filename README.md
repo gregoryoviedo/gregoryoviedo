@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on project as Fiado, TourTrack, Garmo Instruments
 - 🤔 I’m looking for help with finding a new job
 - 💬 Ask me about React Js or Css
-- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/gregory-oviedo-7495a0213/
+- 📫 How to reach me: Linkedin: <a href="https://www.linkedin.com/in/gregory-oviedo-7495a0213/">Here</a>
 
 ## About my skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
